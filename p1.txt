@@ -1,3 +1,7 @@
 please god
+<<<<<<< HEAD
 thanksss god
 im happy
+=======
+please
+>>>>>>> parent of ea77e9d... first commit
